@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.nlogo:netlogo:6.0.0-M5:tests:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.nlogo/NetLogo/jars/netlogo-6.0.0-M5-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
