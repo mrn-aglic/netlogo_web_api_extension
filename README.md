@@ -11,7 +11,8 @@ extensions [sample-scala]
   sample-scala:setup 9090
   sample-scala:start
   
-end ```
+end 
+```
 
 In the command line: 
 ``` sample-scala:putdata 5 ```
