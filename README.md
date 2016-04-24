@@ -3,7 +3,10 @@ Here, I have made a small proof of concept extension for NetLogo. It is based on
 
 The extension has been tested with the following code:
 
-``` to test
+```netlogo
+extensions [sample-scala]
+ 
+ to test
   
   sample-scala:setup 9090
   sample-scala:start
