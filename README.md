@@ -30,8 +30,8 @@ and
 and I am unsure why. 
 
 Here are links to some of the resources I used:
-1. http://stackoverflow.com/questions/11387612/serialize-a-map-that-doesnt-have-a-string-as-a-key-with-lift-json  
-2. https://github.com/joescii/lift-jetty-cluster/blob/master/src/main/scala/bootstrap/liftweb/Start.scala  
+  1. http://stackoverflow.com/questions/11387612/serialize-a-map-that-doesnt-have-a-string-as-a-key-with-lift-json  
+  2. https://github.com/joescii/lift-jetty-cluster/blob/master/src/main/scala/bootstrap/liftweb/Start.scala  
 
 
 
