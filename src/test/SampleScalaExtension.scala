@@ -12,8 +12,5 @@ class SampleScalaExtension extends api.DefaultClassManager {
         manager.addPrimitive("start", WebApp.Start)
         manager.addPrimitive("stop", WebApp.Stop)
         manager.addPrimitive("putData", WebApp.PutData)
-        manager.addPrimitive("first-n-integers", IntegerList)
-        manager.addPrimitive("my-list", MyList)
-        manager.addPrimitive("create-red-turtles", CreateRedTurtles)
     }
 }
